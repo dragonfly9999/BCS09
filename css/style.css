@@ -103,6 +103,9 @@ header .collapse .nav-link:hover{
 .project .project_content .tab-content .card:hover .card-body {
     border-color: green;
   }
+.tab-content .card .card-body h3{
+    font-size: 20px;
+}
 /* AVAILABE */
 .available{
     background-image: url(../img/3.jpg);
